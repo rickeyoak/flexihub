@@ -1,5 +1,8 @@
+**Share USB certificate dongle over the network**
+=================================================
+
 **Digital code signing basics**
-===============================
+-------------------------------
 
 Code signing is the process of signing the scripts with the help of certificate-based digital signature. The main purpose of such signing is to verify the identity of the authors and the authenticity of the code, so that other software and users could determine whether to trust the particular piece of software or not.
 
@@ -12,7 +15,7 @@ The so-called extended validation implies the additional use of USB dongles that
 The most convenient and reliable way would be to use software like **[FlexiHub](https://www.flexihub.com/)**. It will make a digital certificate USB dongle available to everyone in the office, remaining in the same place all the time.
 
 **How to use FlexiHub to get remote access to your digital certificate dongle**
-===============================================================================
+-------------------------------------------------------------------------------
 
 A couple of steps below will help you to get the idea of how to **[share a USB dongle](https://www.flexihub.com/share-usb-dongle.html)** over network:
 
